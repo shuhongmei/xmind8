@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.xmind.ui.popupDialog">
+		<item value="250" key="org.xmind.ui.internal.comments.CommentsPopupDIALOG_HEIGHT"/>
+		<item value="226" key="org.xmind.ui.internal.notes.NotesPopupDIALOG_HEIGHT"/>
+		<item value="350" key="org.xmind.ui.internal.comments.CommentsPopupDIALOG_WIDTH"/>
+		<item value="533" key="org.xmind.ui.internal.comments.CommentsPopupDIALOG_X_ORIGIN"/>
+		<item value="593" key="org.xmind.ui.internal.comments.CommentsPopupDIALOG_Y_ORIGIN"/>
+		<item value="607" key="org.xmind.ui.internal.notes.NotesPopupDIALOG_Y_ORIGIN"/>
+		<item value="31" key="org.xmind.ui.internal.notes.NotesPopupDIALOG_X_ORIGIN"/>
+		<item value="400" key="org.xmind.ui.internal.notes.NotesPopupDIALOG_WIDTH"/>
+	</section>
+	<section name="org.xmind.ui.export.image">
+		<item value="/home/shm/图片/TPM的设计目标.png|/home/shm/图片/可信平台模块TPM.png|/home/shm/图片/平台的多次度量技术.png" key="PATH_HISTORY"/>
+		<item value="image/png" key="FORMAT"/>
+	</section>
+</section>
